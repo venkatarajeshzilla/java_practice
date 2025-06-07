@@ -1,4 +1,4 @@
-Java Practice Programs
+Java  Programs
 Welcome to my Java Practice Repository! 🚀
 This repository contains beginner to intermediate level Java programs that I've written and committed using Git & GitHub.
 
